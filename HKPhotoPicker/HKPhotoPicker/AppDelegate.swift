@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  HKPhotoPicker
 //
-//  Created by wcities on 09/01/17.
-//  Copyright © 2017 wcities. All rights reserved.
+//  Created by Hussain Khan on 09/01/17.
+//  Copyright © 2017 Hussain. All rights reserved.
 //
 
 import UIKit
